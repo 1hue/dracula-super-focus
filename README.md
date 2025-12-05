@@ -986,8 +986,8 @@ Copy these theme configuration values to `settings.json` - which is accessible b
     "editor.foldBackground": "#1111174a",
     "editorLink.activeForeground": "#acb0d0",
 
-    "editor.selectionBackground": "#515c7e35",
-    "editor.inactiveSelectionBackground": "#515c7e25",
+    "editor.selectionBackground": "#8b99c045",
+    "editor.inactiveSelectionBackground": "#515c7e55",
 
     "editor.findMatchBackground": "#3d59a166",
     "editor.findMatchBorder": "#e0af68",
@@ -995,9 +995,9 @@ Copy these theme configuration values to `settings.json` - which is accessible b
 
     "editor.findRangeHighlightBackground": "#515c7e33",
     "editor.rangeHighlightBackground": "#515c7e20",
-    "editor.wordHighlightBackground": "#20263300",
-    "editor.wordHighlightStrongBackground": "#515c7e00",
-    "editor.selectionHighlightBackground": "#20263335",
+    "editor.wordHighlightBackground": "#8b99c030",
+    "editor.wordHighlightStrongBackground": "#8b99c030",
+    "editor.selectionHighlightBackground": "#515c7e00",
 
     "editorCursor.foreground": "#c0caf5",
     "editorIndentGuide.background1": "#23243330",
@@ -1282,6 +1282,6 @@ Copy these theme configuration values to `settings.json` - which is accessible b
     "inlineChatInput.background": "#14141b",
     "inlineChatDiff.inserted": "#41a6b540",
     "inlineChatDiff.removed": "#db4b4b42"
-  },
+  }
 }
 ```
