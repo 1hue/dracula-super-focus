@@ -9,7 +9,7 @@ Adapted from the [Dracula Theme](https://github.com/dracula/visual-studio-code) 
 
 ![Screenshot of Dracula dark vscode theme](/theme1.png)
 
-![Screenshot of Dracula dark vscode theme](/theme1.png)
+![Screenshot of Dracula dark vscode theme](/theme2.png)
 
 ## How to use
 
