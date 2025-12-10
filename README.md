@@ -5,6 +5,8 @@ Adapted from the [Dracula Theme](https://github.com/dracula/visual-studio-code) 
 > [!TIP]
 > Does not require installing an extension in VS Code. Simply drop in the values in User Settings JSON.
 
+## Screenshots
+
 ![Screenshot of Dracula dark vscode theme](/theme1.png)
 
 ![Screenshot of Dracula dark vscode theme](/theme1.png)
